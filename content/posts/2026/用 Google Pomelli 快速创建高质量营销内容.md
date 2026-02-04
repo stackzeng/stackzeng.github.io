@@ -1,6 +1,6 @@
 ---
 title: "用 Google Pomelli 快速创建高质量营销内容"
-date: 2026-02-05
+date: 2026-02-04
 draft: false
 slug: "google-pomelli-high-quality-marketing-content"
 ---
