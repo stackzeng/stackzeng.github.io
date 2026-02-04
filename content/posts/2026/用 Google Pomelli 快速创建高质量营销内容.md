@@ -11,7 +11,7 @@ Google Pomelli 是一款专注于品牌营销内容生成的 AI 工具，能将�
 
 ## **🚀 如何使用 Pomelli？**
 
-**Step 1：进入 Pomelli** 
+**Step 1：进入 Pomelli**  
 
 打开：https://labs.google.com/u/0/pomelli/onboarding
 
