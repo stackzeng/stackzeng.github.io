@@ -34,7 +34,7 @@ slug: "pubspy-uncover-website-network-truth"
 
 - 提取正在使用的 AdSense 发布者 ID
 
-### **🌐 2. 反向查找同一 AdSense 账号下的所有域名
+### **🌐 2. 反向查找同一 AdSense 账号下的所有域名**
 
 - 通过同一个 Publisher ID，找出所有关联网站
 
@@ -42,7 +42,7 @@ slug: "pubspy-uncover-website-network-truth"
 
 - 提供相关域名的流量估算
 
-### **📄 4. ads.txt 扫描
+### **📄 4. ads.txt 扫描**
 
 - 自动检测网站的 **ads.txt**
 
