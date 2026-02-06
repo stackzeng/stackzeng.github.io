@@ -18,7 +18,7 @@ slug: "pubspy-uncover-website-network-truth"
 
 ## **怎么用？3 步就够 🛠**
 
-1️⃣ 打开 <a href="https://pubspy.io/" target="_blank" rel="nofollow">https://pubspy.io/></a> 然后在 Chrome 安装 PubSpy.io 扩展
+1️⃣ 打开 <a href="https://pubspy.io/" target="_blank" rel="nofollow">https://pubspy.io</a> 然后在 Chrome 安装 PubSpy.io 扩展
 
 2️⃣ 打开你想研究的任意网站
 
