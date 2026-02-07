@@ -44,7 +44,7 @@ Hey there，我是 stackzeng 👋
 
 ## 我的飞书知识库：AI 出海星球
 
-除了博客，我还在飞书上整理了一份 出海相关的知识库：
+除了博客，我还在飞书上整理了一份出海相关的知识库：
 
 👉 <a href="https://my.feishu.cn/wiki/Dy2ywqA0viWVbvk6WNjcy1rOnGC" target="_blank">AI 出海星球</a>
 
