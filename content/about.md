@@ -46,7 +46,7 @@ Hey there，我是 stackzeng
 
 除了博客，我还在飞书上整理了一份出海相关的知识库：
 
-👉 <a href="https://my.feishu.cn/wiki/Dy2ywqA0viWVbvk6WNjcy1rOnGC?referrer=gzh_stackzeng" target="_blank">AI 出海星球</a>
+👉 <a href="https://my.feishu.cn/wiki/share-space-ask/7508690018318286852?referrer=gzh_stackzeng" target="_blank">AI 出海星球</a>
 
 这个知识库更偏向汇总、沉淀和复盘。
 
