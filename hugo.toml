@@ -7,6 +7,9 @@ description = "记录个人思考、出海实践、独立开发与工具站构�
 theme = "PaperMod"
 #theme = "hugo-theme-cleanwhite"
 
+[author]
+name = "stackzeng"
+
 [markup.goldmark.renderer]
 unsafe = true
 
