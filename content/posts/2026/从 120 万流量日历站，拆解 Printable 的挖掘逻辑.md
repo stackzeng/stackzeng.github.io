@@ -7,7 +7,7 @@ slug: "printable-traffic-mining-logic-case"
 
 之前介绍过两个打印网站，分别是[一个只让人打印日历的网站，月访问量竟然破 120 万](https://mp.weixin.qq.com/s/_zOFoB3mUkulIDAW8bHF-g)和[一个免费打印网站，每月70万流量，它是怎么做到的？](https://mp.weixin.qq.com/s/aYBbHNWR6QPx2CvAbC9Kqw)。
 
-这次借着日历打印这个切口，聊聊如何系统找到日历之外的打印需求。
+这次借着日历打印这个切口，聊聊如何系统找到日历之外的打印需求。 
 
 # 一、如何系统挖掘 Printable 需求？
 
