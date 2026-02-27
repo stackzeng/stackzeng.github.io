@@ -2,6 +2,7 @@
 title: "从 120 万流量日历站，拆解 Printable 的挖掘逻辑"
 date: 2026-02-25
 draft: false
+tags: ["Case-studies"]
 slug: "printable-traffic-mining-logic-case"
 ---
 
