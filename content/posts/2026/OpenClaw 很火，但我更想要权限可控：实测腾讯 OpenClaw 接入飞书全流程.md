@@ -54,7 +54,7 @@ https://www.codebuddy.cn/work/
 
 Workspace 创建完成后，就可以正式下发任务，让 AI 开始执行。
 
-![[Snipaste_2026-03-10_17-34-37.png]]
+![img](/images/2026/Snipaste_2026-03-10_17-34-37.png)
 
 ## **6. 查看完成效果**
 
