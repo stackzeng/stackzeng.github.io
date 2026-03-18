@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "JSON"]
 
 
 [pagination]
-  pagerSize = 15
+  pagerSize = 10
 
 [params]
   defaultTheme = "auto"     # 自动浅色 / 深色
