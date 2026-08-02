@@ -17,7 +17,7 @@ slug: "10-min-spaceship-cloudflare-guide"
 
 进入 Cloudflare 后台，点击添加站点，选择 **Connect a domain**。
 
-![Cloudflare 选择添加域名](/images/2026/viral-referral.png)
+![Cloudflare 选择添加域名](/images/2026/Snipaste_2026-07-29_10-54-34.png)
 
 ## 二、输入需要接入的域名
 
@@ -33,7 +33,7 @@ Cloudflare 会自动扫描并导入当前域名的 DNS 记录。
 
 然后点击 Continue。
 
-![输入需要绑定的域名](/images/2026/viral-referral.png)
+![输入需要绑定的域名](/images/2026/Snipaste_2026-07-29_10-55-37.png)
 
 ## 三、选择 Free 套餐
 
@@ -41,13 +41,13 @@ Cloudflare 会让我们选择套餐。
 
 对于普通个人网站、工具站和刚上线的新网站，选择 Free 免费套餐即可。
 
-![选择 Cloudflare Free 套餐](/images/2026/viral-referral.png)
+![选择 Cloudflare Free 套餐](/images/2026/Snipaste_2026-07-29_10-56-21.png)
 
 ## 四、检查导入的 DNS 记录
 
 进入 DNS 检查页面后，如果能够看到 Cloudflare 扫描出的 A、CNAME 等记录，说明现有 DNS 记录已经成功导入。
 
-![检查 Cloudflare 导入的 DNS 记录](/images/2026/viral-referral.png)
+![检查 Cloudflare 导入的 DNS 记录](/images/2026/Snipaste_2026-07-29_10-59-38.png)
 
 如果域名之前已经绑定网站、邮箱或其他服务，建议检查记录是否完整，重点关注以下类型：
 
@@ -70,7 +70,7 @@ xxx.ns.cloudflare.com
 
 将这两个地址复制下来，可以暂时保存到记事本中，后面需要填写到 Spaceship。
 
-![复制 Cloudflare 名称服务器](/images/2026/viral-referral.png)
+![复制 Cloudflare 名称服务器](/images/2026/Snipaste_2026-07-29_11-04-47.png)
 
 每个域名获得的 Cloudflare 名称服务器可能不同，需要以页面实际显示的地址为准。
 
@@ -78,19 +78,19 @@ xxx.ns.cloudflare.com
 
 登录 Spaceship 后台，在应用列表中找到并打开 **域名管理器**。
 
-![打开 Spaceship 域名管理器](/images/2026/viral-referral.png)
+![打开 Spaceship 域名管理器](/images/2026/Snipaste_2026-07-29_11-06-18.png)
 
 ## 七、进入名称服务器和 DNS
 
 找到需要接入 Cloudflare 的域名，在域名管理页面中打开 **名称服务器和 DNS**。
 
-![进入名称服务器和 DNS](/images/2026/viral-referral.png)
+![进入名称服务器和 DNS](/images/2026/Snipaste_2026-07-29_11-07-27.png)
 
 ## 八、打开高级 DNS
 
 在 DNS 管理区域中，点击 **高级 DNS**。
 
-![打开 Spaceship 高级 DNS](/images/2026/viral-referral.png)
+![打开 Spaceship 高级 DNS](/images/2026/Snipaste_2026-07-29_11-07-35.png)
 
 ## 九、更改名称服务器
 
@@ -98,7 +98,7 @@ xxx.ns.cloudflare.com
 
 点击右侧的 **更改**。
 
-![点击更改名称服务器](/images/2026/viral-referral.png)
+![点击更改名称服务器](/images/2026/Snipaste_2026-07-29_11-08-56.png)
 
 ## 十、填写 Cloudflare 名称服务器
 
@@ -106,7 +106,7 @@ xxx.ns.cloudflare.com
 
 将之前从 Cloudflare 复制的两个名称服务器，分别填写到对应的输入框中，然后点击 **保存名称服务器设置**。
 
-![填写 Cloudflare 自定义名称服务器](/images/2026/viral-referral.png)
+![填写 Cloudflare 自定义名称服务器](/images/2026/Snipaste_2026-07-29_11-09-10.png)
 
 填写格式如下：
 
@@ -121,7 +121,7 @@ xxx.ns.cloudflare.com
 
 Cloudflare 会开始检查域名的名称服务器是否已经修改成功。
 
-![通知 Cloudflare 已更新名称服务器](/images/2026/viral-referral.png)
+![通知 Cloudflare 已更新名称服务器](/images/2026/Snipaste_2026-07-29_11-10-12.png)
 
 名称服务器的更新可能不会立即生效。
 
@@ -131,7 +131,7 @@ Cloudflare 会开始检查域名的名称服务器是否已经修改成功。
 
 当页面出现 **Your domain is now protected by Cloudflare**，代表域名已经成功接入 Cloudflare。
 
-![域名成功接入 Cloudflare](/images/2026/viral-referral.png)
+![域名成功接入 Cloudflare](/images/2026/Snipaste_2026-07-29_11-13-42.png)
 
 完成接入后，域名的 DNS、SSL、缓存和安全防护等功能将由 Cloudflare 管理。
 
