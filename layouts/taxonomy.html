@@ -18,8 +18,8 @@
     {{- $count := .Count }}
     {{- with site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
-        {{- /* 核心修改：优先从 data/tags.yml 找中文映射，找不到再用原来的 .Name */ -}}
-        {{- $displayName := index site.Data.tags .Name | default .Name -}}
+        {{- /* 核心修改：优先从 data/tags.toml 找中文映射，找不到再用原来的 .Name */ -}}
+        {{- $displayName := index hugo.Data.tags .Name | default .Name -}}
         <a href="{{ .Permalink }}">{{ $displayName }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
     </li>
     {{- end }}
