@@ -1,5 +1,5 @@
 googleAnalytics = "G-S5XRZTMCNV"
-baseURL = "https://stackzeng.github.io/"
+baseURL = "https://stackzeng.com/"
 locale = "zh-Hans-CN"
 title = "stackzeng"
 description = "记录个人思考、出海实践、独立开发与工具站构建的真实经验。"
@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "JSON"]
 
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 15
 
 [params]
   defaultTheme = "auto"     # 自动浅色 / 深色
